@@ -105,3 +105,4 @@ Contract deployment is currently manual.
 
 To deploy to the Sky Strife testnet run `pnpm deploy:garnet` in `packages/contracts`. After deployment has finished, you'll need to make a commit with the `worlds.json` changes and open a PR to the `develop` branch. The live client uses this to determine which world to connect to.
 # skystrife-test-dist
+# skystrife-test-dist
